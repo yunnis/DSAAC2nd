@@ -26,9 +26,6 @@
     <ClInclude Include="head.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="ch1\1_32_Recursive_method_for_permutations.h">
-      <Filter>ch1</Filter>
-    </ClInclude>
     <ClInclude Include="ch1\e1_22_ackermann%27s_function.h">
       <Filter>ch1</Filter>
     </ClInclude>
@@ -36,6 +33,9 @@
       <Filter>ch1</Filter>
     </ClInclude>
     <ClInclude Include="ch1\e1_24_subset_generation.h">
+      <Filter>ch1</Filter>
+    </ClInclude>
+    <ClInclude Include="ch1\p1_32_Recursive_method_for_permutations.h">
       <Filter>ch1</Filter>
     </ClInclude>
   </ItemGroup>
