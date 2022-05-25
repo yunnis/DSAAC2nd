@@ -16,6 +16,9 @@
     <Filter Include="ch1">
       <UniqueIdentifier>{f74f46a3-6c1e-4ab2-be0b-70d5cfb800d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ch2">
+      <UniqueIdentifier>{3eabd2b5-4da7-4c90-a6bf-37383ba97e1d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DSAAC2nd.cpp">
@@ -37,6 +40,9 @@
     </ClInclude>
     <ClInclude Include="ch1\p1_32_Recursive_method_for_permutations.h">
       <Filter>ch1</Filter>
+    </ClInclude>
+    <ClInclude Include="ch2\p2_4_Horner.h">
+      <Filter>ch2</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

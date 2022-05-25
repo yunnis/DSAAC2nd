@@ -147,6 +147,7 @@
     <ClInclude Include="ch1\e1_24_subset_generation.h" />
     <ClInclude Include="ch1\e1_33_Greatest_common_divisor.h" />
     <ClInclude Include="ch1\p1_32_Recursive_method_for_permutations.h" />
+    <ClInclude Include="ch2\p2_4_Horner.h" />
     <ClInclude Include="head.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

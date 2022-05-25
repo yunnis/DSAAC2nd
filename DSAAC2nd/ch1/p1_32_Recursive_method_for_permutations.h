@@ -1,6 +1,6 @@
 #include "../head.h"
 
-namespace _1_32
+namespace p1_32
 {
     template<typename T>
     void permutations(T list[], int k, int m)
